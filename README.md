@@ -1,2 +1,2 @@
-# 100DaysOfML
-This is my 100DaysOfML Repo
+# 100DaysOfMLCode
+This is my 100DaysOfMLCode Repo
